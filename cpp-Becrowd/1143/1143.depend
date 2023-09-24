@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694090700 source:/home/arturfpc/Documentos/codeblocks programs/Beecrowd/cpp-Becrowd/1143/main.cpp
+	<iostream>
+	"math.h"
+
