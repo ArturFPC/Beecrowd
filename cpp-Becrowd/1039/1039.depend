@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712683779 source:/home/artur/workspace/Beecrowd/cpp-Becrowd/1039/main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
